@@ -1,6 +1,8 @@
+package ChatBot;
+
 import java.util.Scanner;
 
-class SimpleChatbot {
+public class SimpleChatBot {
     public static void main(String[] args) {
         // Step 1: Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);
