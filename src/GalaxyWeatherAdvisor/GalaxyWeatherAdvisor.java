@@ -6,7 +6,7 @@ public class GalaxyWeatherAdvisor {
 
         System.out.println("Welcome to Galactic Weather Advisor!");
 
-        System.out.println("Please enter the planet you are on (Earth, Mars, Venus, Jupiter): ");
+        System.out.println("Please enter planet you are on (Earth, Mars, Venus, Jupiter): ");
         String planet = sc.nextLine();
 
         System.out.println("Please enter the current temperature in Celsius: ");
